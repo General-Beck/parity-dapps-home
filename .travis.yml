@@ -5,7 +5,7 @@ node_js:
 
 env:
   global:
-#    - REPO_SLUG=ethcore/parity-web-ui
+    - REPO_SLUG=ethcore/parity-web-ui
     # GITHUB_TOKEN with public repo access
 #    - secure: SSpZYcjf2k2hC7hfZALxfWgNTwgUsq4BKJmmXG5mF96PZuddwXNu3ha+wr5gGMzEprHKZkcvxjW8B4xULl5DyfKmV9PFMnOQ8jl9D6G1shl494aMBztQKui6blax9J9f3gnRffqPEi2gnrVYkKICXdpBP/0phim+F5VeR1UneRQsfWb+q7JmcHN+ISij2JMJ+SRiXbjV38pENmJzQM+XmiDWelD9fHQXX9/xmBarUHHWVIMBUZQP3DRuJFNrJL9IoSHCODHBOG7oIxg/4jGVSf5KwLYN5JQquoNAhMKzdm+I0fHKoj6/rLxNbBxPp1Ob/kGQFI+Vmq6WKxARaDZ04GI7+GDqEvwFRXe+EAdPzOT1fXNT9X3LbpdzoC0CdSOEhZfjHGfat4hVpozSAjue555e9GzcB/7WITPCAooCElpK5oPsUrd63c1ZatDY7NFfOQpPQvLpMRjmyPKHTKQ/jsWMArHf/n2I4EqCcLBhLF66XN3mGxlg42e2RyJ6kw3xgaIYU9TUaMLF9af/HuxPIsAqx/Lf6EPB3pQIRc1eSA/jBrg6KUa7hN0m5zZkJgRep0X46o5wPrBYt9hdilu2fNlbT33xV7rcux/2TTlGOvzKbLDiu6WhAFrAkJAac4ZInl1oG5bupOrrY71vlRNMTy/VW62RjDewlso5SC/7ZtA=
 
